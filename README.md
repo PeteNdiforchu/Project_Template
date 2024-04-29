@@ -2,7 +2,8 @@
 
 # Spotify Data Analytics
 
-<img width="1296" alt="Screenshot 2024-02-23 at 4 26 27 AM" src="https://github.com/PeterNdiforchu/Project_Template/assets/76578061/2f763b8b-2f79-4fb0-a490-d6cd4ae5572c">
+![Data Analytics Career Transitions Ins and Outs](https://github.com/PeterNdiforchu/Project_Template/assets/157251680/d00e1c6c-8cf7-4c84-9f3d-2d7f80316bfb)
+
 
 ## Project Description
 At the core of this project is the process of extracting data from Spotify on user listening history, performing data transformations, and loading the data to a database for user song play analytics. The program uses Spotipy, a lightweight Python library for the Spotify Web API. The primary objectives of this project are to:
